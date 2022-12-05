@@ -1,0 +1,4 @@
+The purpose of this project was to segment customers into 3 groups(low-value customers, medium-value customers, and high-value customers) 
+and run a market basket analysis on each group, looking at what are the most frequently bought together products. 
+This would help a marketing team create campaigns that are tailored to the specific groups' needs, 
+rather than trying to market to everyone with a single strategy.
